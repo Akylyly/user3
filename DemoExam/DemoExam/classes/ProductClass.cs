@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -55,7 +56,6 @@ manufacturer.id_manufacturer = product.id_manufacturer and category.id_category 
         }
         static public void Update(string id, string category, string name, string description, string manufacturer, string provider, string cost, string si, string count, string discount, string photo)
         {
-            string art = GenerateArt();
             ConnectionClass.cmd.CommandText = $@"update product set
                 id_name_product = {name},
                 id_si = {si}, 
@@ -66,6 +66,33 @@ manufacturer.id_manufacturer = product.id_manufacturer and category.id_category 
             discount = {discount}, 
             descriptrion = '{description}', 
             photo = '{photo}' where id_product = {id}";
+            if(ConnectionClass.cmd.ExecuteNonQuery() > 0)
+            {
+                MessageClass.Info("Данные успешно обновлены");
+            }
+            else
+            {
+
+                MessageClass.Error("Данные не были обновлены");
+            }
+        }
+        static public void Delete(string id, string photo)
+        {
+            DataTable dt = new DataTable(); 
+            ConnectionClass.cmd.CommandText = $@"select * from product_in_order where id_product = {id}";
+            ConnectionClass.adapter.Fill(dt);
+            if(dt.Rows.Count > 0)
+            {
+                MessageClass.Error("Вы не можете удалить этот товар так как он добавлен в заказ");
+                return;
+            }
+            ConnectionClass.cmd.CommandText = $@"select * from product where photot = '{photo}' and id_product != {id}";
+            ConnectionClass.adapter.Fill(dt);
+            if(dt.Rows.Count == 0)
+            {
+                File.Delete("./import/" + photo);
+            }
+            ConnectionClass.cmd.CommandText = $@"delete from product where id_product = {id}";
             if(ConnectionClass.cmd.ExecuteNonQuery() > 0)
             {
                 MessageClass.Info("Данные успешно обновлены");
