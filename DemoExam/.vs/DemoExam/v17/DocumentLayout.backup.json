@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|c:\\users\\anna\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\demoexam\\demoexam\\classes\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|solutionrelative:demoexam\\classes\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|c:\\users\\anna\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\demoexam\\demoexam\\classes\\nameproductclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|solutionrelative:demoexam\\classes\\nameproductclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|c:\\users\\anna\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\demoexam\\demoexam\\classes\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|solutionrelative:demoexam\\classes\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|c:\\users\\anna\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\demoexam\\demoexam\\classes\\siclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|solutionrelative:demoexam\\classes\\siclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|c:\\users\\anna\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\demoexam\\demoexam\\classes\\providerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|solutionrelative:demoexam\\classes\\providerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|c:\\users\\anna\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\demoexam\\demoexam\\classes\\manufacturerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|solutionrelative:demoexam\\classes\\manufacturerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|c:\\users\\anna\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\demoexam\\demoexam\\classes\\categoryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|solutionrelative:demoexam\\classes\\categoryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|c:\\users\\anna\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\demoexam\\demoexam\\classes\\adressclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|solutionrelative:demoexam\\classes\\adressclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|c:\\users\\anna\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\demoexam\\demoexam\\classes\\statusclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252671B-3043-45AC-87E1-B69C57AD81CC}|DemoExam\\DemoExam.csproj|solutionrelative:demoexam\\classes\\statusclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 23,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductClass.cs",
+              "DocumentMoniker": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\ProductClass.cs",
+              "RelativeDocumentMoniker": "DemoExam\\classes\\ProductClass.cs",
+              "ToolTip": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\ProductClass.cs",
+              "RelativeToolTip": "DemoExam\\classes\\ProductClass.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAEsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:01:13.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusClass.cs",
+              "DocumentMoniker": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\StatusClass.cs",
+              "RelativeDocumentMoniker": "DemoExam\\classes\\StatusClass.cs",
+              "ToolTip": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\StatusClass.cs",
+              "RelativeToolTip": "DemoExam\\classes\\StatusClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:59:58.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdressClass.cs",
+              "DocumentMoniker": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\AdressClass.cs",
+              "RelativeDocumentMoniker": "DemoExam\\classes\\AdressClass.cs",
+              "ToolTip": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\AdressClass.cs",
+              "RelativeToolTip": "DemoExam\\classes\\AdressClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:59:51.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryClass.cs",
+              "DocumentMoniker": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\CategoryClass.cs",
+              "RelativeDocumentMoniker": "DemoExam\\classes\\CategoryClass.cs",
+              "ToolTip": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\CategoryClass.cs",
+              "RelativeToolTip": "DemoExam\\classes\\CategoryClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:59:46.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManufacturerClass.cs",
+              "DocumentMoniker": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\ManufacturerClass.cs",
+              "RelativeDocumentMoniker": "DemoExam\\classes\\ManufacturerClass.cs",
+              "ToolTip": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\ManufacturerClass.cs",
+              "RelativeToolTip": "DemoExam\\classes\\ManufacturerClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:59:41.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProviderClass.cs",
+              "DocumentMoniker": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\ProviderClass.cs",
+              "RelativeDocumentMoniker": "DemoExam\\classes\\ProviderClass.cs",
+              "ToolTip": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\ProviderClass.cs",
+              "RelativeToolTip": "DemoExam\\classes\\ProviderClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:59:33.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiClass.cs",
+              "DocumentMoniker": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\SiClass.cs",
+              "RelativeDocumentMoniker": "DemoExam\\classes\\SiClass.cs",
+              "ToolTip": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\SiClass.cs",
+              "RelativeToolTip": "DemoExam\\classes\\SiClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:59:28.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\UserClass.cs",
+              "RelativeDocumentMoniker": "DemoExam\\classes\\UserClass.cs",
+              "ToolTip": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\UserClass.cs",
+              "RelativeToolTip": "DemoExam\\classes\\UserClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:59:21.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameProductClass.cs",
+              "DocumentMoniker": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\NameProductClass.cs",
+              "RelativeDocumentMoniker": "DemoExam\\classes\\NameProductClass.cs",
+              "ToolTip": "C:\\Users\\anna\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\user3\\DemoExam\\DemoExam\\classes\\NameProductClass.cs",
+              "RelativeToolTip": "DemoExam\\classes\\NameProductClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T11:59:20.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
